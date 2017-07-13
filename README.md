@@ -1,5 +1,4 @@
 # Linux-Command-Line-Tutorial
-A great and quick way to start with Linux commands
 ![Alt text](https://github.com/YoungCode26/Linux-Command-Line-Tutorial/blob/master/82485.jpg?raw=true "Optional Title")
 * nmap
 ```
