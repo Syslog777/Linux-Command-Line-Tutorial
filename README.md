@@ -1,5 +1,5 @@
 # Linux-Command-Line-Tutorial
-Your go to reference for using the linux command line
+Your go to reference for using the linux/bash command line
 ![Alt text](https://github.com/YoungCode26/Linux-Command-Line-Tutorial/blob/master/82485.jpg?raw=true "Optional Title")
 * nmap
 ```
